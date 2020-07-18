@@ -59,27 +59,6 @@ export default () => ({
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-```python
-# Machine Learning Resume
-import resume as res
-import education as ed
-import skills as sk
-
-# Importing Resume
-data = res.read_resume("Srinivas_Resume.pdf");
-
-# Training Resume
-X_train = ed.training("National Institute of Electronics and Information Technology Calicut": "Advanced Diploma in Artificial Intelligence", "University of Illinois Springfield": "MS in CS", "University of Missouri Kansas City": "MS in EE", "Jawaharlal Nehru Technological Univeresity Hyderabad": "BTECH in ECE") 
-X_test = sk.technologies("Machine Learning", "Deep Learning", "MEAN Stack Development", "Data Science")
-
-# Prediction
-from resume import technologies
-y_pred = technologies.predict(X_test)
-
-OUTPUT:
-y_pred: Python, Flask, Angular, Node, MongoDB, SQL, ANN, CNN, RNN, Java, GPU Computing, Express, Classification, Clustering, Regression
-```
-
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919391446758)
 - ⚡ Fun fact: I love meeting new people and eating food! 

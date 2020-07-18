@@ -61,7 +61,7 @@ export default () => ({
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919391446758)
 - ⚡ Fun fact: I love meeting new people and eating food! 
-- 📫 How to reach me: email me at [![Gmail Badge] mailto:sapireddyrahul@gmail.com
+- 📫 How to reach me: email me at sapireddyrahul@gmail.com
 - 📝[Resume](https://srsapireddy.github.io/cv/Resume.pdf)
 
 ![Srinivas's github stats](https://github-readme-stats.vercel.app/api?username=srsapireddy&show_icons=true&hide_border=true)

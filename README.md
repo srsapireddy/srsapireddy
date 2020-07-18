@@ -5,8 +5,6 @@
 <div align="center">
 	<br>
 	<img src="https://media.giphy.com/media/A8NkSPltT13H2/giphy.gif" width="200" height="200">
-	
-	<br>
 </div>
 
 ## Knowledges

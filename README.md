@@ -2,6 +2,14 @@
 
 ![Header](./github-header-image.png)
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=srsapireddy.srsapireddy">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Srinivas+RAHUL....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/srsapireddy2020/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/srinivas_rahul_official/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>

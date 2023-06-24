@@ -172,7 +172,7 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 </div>
 
 <div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
+    <img height="300px" src="https://metrics.lecoq.io/srsapireddy?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
 <hr>
 

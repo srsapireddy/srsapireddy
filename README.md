@@ -18,11 +18,11 @@
 
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/srsapireddy/srsapireddy/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600">
+<img src="https://raw.githubusercontent.com/trinib/trinib/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600">
 
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/srsapireddy/srsapireddy/main/images/terminal.gif" width="400" height="400">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
 
 <hr>
 

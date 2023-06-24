@@ -114,7 +114,7 @@ Degree: Bachelor of Technology \
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/NU.png"/>](https://hkn.ieee.org/)
 
 **Eta Kappa Nu** \
-[**ETA**](https://hkn.ieee.org/) • Eta Kappa Nu is the Honor Society in Electrical and Computer Engineering. The student chapter at UMKC, Theta Pi, was installed in 1980.
+[**ETA**](https://hkn.ieee.org/) • Eta Kappa Nu is the Honor Society in Electrical and Computer Engineering. 
 <br/>
 <br/>
 

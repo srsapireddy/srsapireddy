@@ -163,7 +163,7 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 </p>
 
 <hr>
-# 🔭Actions
+🔭Actions
 
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/srsapireddy?template=classic&config.timezone=USA"/>

@@ -59,7 +59,7 @@ Degree: Advanced Diploma \
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="UIS" src="https://github.com/srsapireddy/srsapireddy/blob/main/images/UIS.jpeg?raw=true"/>](https://www.uis.edu/)
+[<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/UIS.jpeg"/>](https://www.uis.edu/)
 
 **University of Illinois at Springfield (UIS)** \
 [**UIS**](https://www.uis.edu/) • Computer Science \
@@ -67,14 +67,14 @@ Degree: Master of Science \
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="UMKC" src="https://github.com/srsapireddy/srsapireddy/blob/main/images/UMKC.jpeg?raw=true"/>](https://www.umkc.edu/)
+[<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/UMKC.jpeg"/>](https://www.umkc.edu/)
 
 **University of Missouri Kansas City (UMKC)** \
 [**UMKC**](https://www.umkc.edu/) • Electrical Engineering \
 Degree: Master of Science \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="GRIET" src="https://github.com/srsapireddy/srsapireddy/blob/main/images/GRIET.jpeg?raw=true"/>](https://www.griet.ac.in/)
+[<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/GRIET.jpeg"/>](https://www.griet.ac.in/)
 
 **Gokaraju Rangaraju Institute of Engineering and Technology (GRIET)** \
 [**GRIET**](https://www.griet.ac.in/) • Electronics and Communication Engineering \

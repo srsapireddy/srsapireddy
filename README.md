@@ -51,34 +51,34 @@ export default () => ({
 ### Education
 In the overview below you will find my education:
 
-[<img align="left" height="94px" width="94px" alt="UIS" src="https://github.com/srsapireddy/srsapireddy/blob/main/images/NIELIT.jpeg?raw=true"/>](https://nielit.gov.in/)
+[<img align="left" height="94px" width="94px" alt="NIELIT" src="https://github.com/srsapireddy/srsapireddy/blob/main/images/NIELIT.jpeg?raw=true"/>](https://nielit.gov.in/)
 
 **National Institute of Electronics and Information Technology (NIELIT)** \
-[**NIELIT**](https://nielit.gov.in/) • Advanced Diploma \
-Degree: Artificial Intelligence \
+[**NIELIT**](https://nielit.gov.in/) • Artificial Intelligence \
+Degree: Advanced Diploma \
 <br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="UIS" src="https://github.com/srsapireddy/srsapireddy/blob/main/images/UIS.jpeg?raw=true"/>](https://www.uis.edu/)
 
 **University of Illinois at Springfield (UIS)** \
-[**UIS**](https://www.uis.edu/) • Master of Science \
-Degree: Computer Science \
+[**UIS**](https://www.uis.edu/) • Computer Science \
+Degree: Master of Science \
 <br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="UMKC" src="https://github.com/srsapireddy/srsapireddy/blob/main/images/UMKC.jpeg?raw=true"/>](https://www.umkc.edu/)
 
 **University of Missouri Kansas City (UMKC)** \
-[**UMKC**](https://www.umkc.edu/) • Master of Science \
-Degree: Electrical Engineering \
+[**UMKC**](https://www.umkc.edu/) • Electrical Engineering \
+Degree: Master of Science \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="GRIET" src="https://github.com/srsapireddy/srsapireddy/blob/main/images/GRIET.jpeg?raw=true"/>](https://www.griet.ac.in/)
 
 **Gokaraju Rangaraju Institute of Engineering and Technology (GRIET)** \
-[**GRIET**](https://www.griet.ac.in/) • Bachelor of Technology \
-Degree: Electronics and Communication Engineering \
+[**GRIET**](https://www.griet.ac.in/) • Electronics and Communication Engineering \
+Degree: Bachelor of Technology \
 <br/>
 <br/>
 

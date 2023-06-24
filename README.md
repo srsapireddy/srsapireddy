@@ -55,14 +55,14 @@
 <h3 align="left">Experience:</h3>
 In the overview below, you will find my experience:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/s/roaldnefs/blob/main/images/dining.jpeg?raw=true"/>](https://www.uis.edu/dining)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/dining.png"/>](https://www.uis.edu/dining)
 
 **Graduate Student Assistant** \
 [**UIS**](https://www.uis.edu/dining) • Part-Time
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://www.umkc.edu/is/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/IT.jpeg"/>](https://www.umkc.edu/is/)
 
 **Student Assistant - Technical Level II** \
 [**UMKC**](https://www.umkc.edu/is//) • Part-Time \

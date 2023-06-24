@@ -53,7 +53,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Experience:</h3>
-In the overview below, you will find my experience:
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/services.jpg"/>](https://www.uis.edu/dining)
 

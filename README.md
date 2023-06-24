@@ -57,7 +57,7 @@
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/services.jpg"/>](https://www.uis.edu/dining)
 
 **Graduate Student Assistant: Dining Services** \
-[**UIS**](https://www.uis.edu/dining) • Part-Time <br/>
+[**UIS**](https://www.uis.edu/dining) • Part-Time <br/><br/>
 <br/>
 <br/>
 

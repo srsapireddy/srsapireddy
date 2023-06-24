@@ -166,13 +166,6 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 # 🔭Actions
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=srsapireddy"/>
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/srsapireddy/srsapireddy/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=srsapireddy&theme=github"/>
 </div>
 

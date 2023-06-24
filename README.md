@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srsapireddy&show_icons=true&locale=en&layout=compact" alt="srsapireddy" /></p>
 <hr>
-### Blogs posts
+<h3 align="left">Blogs posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -37,8 +37,7 @@
 	<img src="https://media.giphy.com/media/A8NkSPltT13H2/giphy.gif" width="200" height="200">
 </div>
 <hr>
-### Education
-In the overview below you will find my education:
+<h3 align="left">Education:</h3>
 
 [<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/NIELIT.jpeg"/>](https://nielit.gov.in/)
 
@@ -72,7 +71,7 @@ Degree: Bachelor of Technology \
 <br/>
 <br/>
 <hr>
-## Knowledges
+<h3 align="left">Skills:</h3>
 
 ```js
 export default () => ({

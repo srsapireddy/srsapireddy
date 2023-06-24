@@ -166,11 +166,7 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 # 🔭Actions
 
 <div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=srsapireddy&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/srsapireddy?template=classic&config.timezone=Asia%2FShanghai"/>
+    <img height="300px" src="https://metrics.lecoq.io/srsapireddy?template=classic&config.timezone=USA%2FcHICAGO"/>
 </div>
 <hr>
 

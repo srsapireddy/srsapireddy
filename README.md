@@ -119,12 +119,12 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srsapireddy" alt="srsapireddy" /></a> </p>
 
-- 💬 Ask me about anything and everything! 
-- ⚡ Fun fact: I love meeting new people and eating food! 
-- 📫 How to reach me: email me at sapireddysrinivas2020@gmail.com
+- 💬 Ask me about anything and everything! </br>
+- ⚡ Fun fact: I love meeting new people and eating food! </br>
+- 📫 How to reach me: email me at sapireddysrinivas2020@gmail.com </br>
 
 
-![Srinivas's github stats](https://github-readme-stats.vercel.app/api?username=srsapireddy&show_icons=true&hide_border=true)
+![Srinivas's github stats](https://github-readme-stats.vercel.app/api?username=srsapireddy&show_icons=true&hide_border=true) </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srsapireddy&" alt="srsapireddy" /></p>
 
 

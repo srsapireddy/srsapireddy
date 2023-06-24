@@ -21,6 +21,26 @@
 	<img src="https://media.giphy.com/media/A8NkSPltT13H2/giphy.gif" width="200" height="200">
 </div>
 
+<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+
+<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600">
+
+<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -170,31 +190,6 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 </div>
 <hr>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--🖼️ILOVEOPENSOURCE-->
-<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-
-<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<p align="center">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-
-<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600">
-
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
-
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">

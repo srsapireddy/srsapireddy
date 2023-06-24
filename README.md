@@ -10,6 +10,10 @@
   </a>
 </h1>
 
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/srsapireddy2020/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/srinivas_rahul_official/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
@@ -80,7 +84,9 @@ Degree: Master of Science \
 Degree: Bachelor of Technology \
 <br/>
 <br/>
-<hr>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Skills:</h3>
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
@@ -150,7 +156,9 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srsapireddy&label=Profile%20views&color=0e75b6&style=flat" alt="srsapireddy" /> </p>
 </br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srsapireddy" alt="srsapireddy" /></a> </p>
-<hr>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 - 💬 Ask me about anything and everything! </br>
 - ⚡ Fun fact: I love meeting new people and eating food! </br>
 - 📫 How to reach me: email me at sapireddysrinivas2020@gmail.com </br>

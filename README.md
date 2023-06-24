@@ -51,7 +51,7 @@ export default () => ({
 ### Education
 In the overview below you will find my education:
 
-[<img align="left" height="94px" width="94px" alt="NIELIT" src="https://github.com/srsapireddy/srsapireddy/blob/main/images/NIELIT.jpeg?raw=true"/>](https://nielit.gov.in/)
+[<img align="left" height="94px" width="94px" alt="NIELIT" src="[https://github.com/srsapireddy/srsapireddy/blob/main/images/NIELIT.jpeg?raw=true](https://github.com/srsapireddy/srsapireddy/blob/master/images/GRIET.jpeg)"/>](https://nielit.gov.in/)
 
 **National Institute of Electronics and Information Technology (NIELIT)** \
 [**NIELIT**](https://nielit.gov.in/) • Artificial Intelligence \

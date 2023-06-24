@@ -16,7 +16,10 @@
 </h5>
 <br>
 
-<a href="https://medium.com/@srsapireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srsapireddy" height="50" width="50" /></a> 
+<div align="center">
+	<br>
+	<img src="https://media.giphy.com/media/A8NkSPltT13H2/giphy.gif" width="200" height="200">
+</div>
 
 <hr>
 
@@ -30,12 +33,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+	<a href="https://medium.com/@srsapireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srsapireddy" height="50" width="50" /></a> 
 </p>
 
-<div align="center">
-	<br>
-	<img src="https://media.giphy.com/media/A8NkSPltT13H2/giphy.gif" width="200" height="200">
-</div>
 <hr>
 <h3 align="left">Education:</h3>
 

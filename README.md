@@ -55,7 +55,7 @@
 <h3 align="left">Experience:</h3>
 In the overview below, you will find my experience:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.uis.edu/dining)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/s/roaldnefs/blob/main/images/dining.jpeg?raw=true"/>](https://www.uis.edu/dining)
 
 **Graduate Student Assistant** \
 [**UIS**](https://www.uis.edu/dining) • Part-Time

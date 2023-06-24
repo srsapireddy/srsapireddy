@@ -108,7 +108,6 @@ Degree: Bachelor of Technology \
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">Skills:</h3>
 <h3 align="left">Organizations:</h3>
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/NU.png"/>](https://hkn.ieee.org/)

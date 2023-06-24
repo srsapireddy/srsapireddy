@@ -16,11 +16,6 @@
 </h5>
 <br>
 
-<div align="center">
-	<br>
-	<img src="https://media.giphy.com/media/A8NkSPltT13H2/giphy.gif" width="200" height="200">
-</div>
-
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/srsapireddy/srsapireddy/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600">
@@ -156,6 +151,10 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 - ⚡ Fun fact: I love meeting new people and eating food! </br>
 - 📫 How to reach me: email me at sapireddysrinivas2020@gmail.com </br>
 
+<div align="center">
+	<br>
+	<img src="https://media.giphy.com/media/A8NkSPltT13H2/giphy.gif" width="200" height="200">
+</div>
 
 <hr>
 

@@ -241,12 +241,6 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 
-<!--🤔INTERESTTITLE-->
-<p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
 
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=srsapireddy&color=0E9C47&style=for-the-badge">
 
 

@@ -121,10 +121,9 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 <br/>
 <br/>
 --!>
-Please find me on [LinkedIn](https://www.linkedin.com/in/srsapireddy/) for a more detailed description of my full work experience, education, and certification.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srsapireddy&label=Profile%20views&color=0e75b6&style=flat" alt="srsapireddy" /> </p>
-
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srsapireddy" alt="srsapireddy" /></a> </p>
 <hr>
 - 💬 Ask me about anything and everything! </br>

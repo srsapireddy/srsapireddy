@@ -187,7 +187,7 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/srsapireddy?template=classic&config.timezone=USA"/>
 </div>
-<hr>
+
 
 <!--📏LINE-->
 <p align="center">

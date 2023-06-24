@@ -51,6 +51,27 @@
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Experience:</h3>
+In the overview below, you will find my experience:
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.uis.edu/dining)
+
+**Graduate Student Assistant** \
+[**UIS**](https://www.uis.edu/dining) • Part-Time
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://www.umkc.edu/is/)
+
+**Student Assistant - Technical Level II** \
+[**UMKC**](https://www.umkc.edu/is//) • Part-Time \
+<br/>
+<br/>
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Education:</h3>
 
 [<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/NIELIT.jpeg"/>](https://nielit.gov.in/)

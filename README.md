@@ -104,6 +104,28 @@ Degree: Master of Science \
 Degree: Bachelor of Technology \
 <br/>
 <br/>
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Skills:</h3>
+<h3 align="left">Organizations:</h3>
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/NU.png"/>](https://hkn.ieee.org/)
+
+**Eta Kappa Nu** \
+[**ETA**](https://hkn.ieee.org/) • Eta Kappa Nu is the Honor Society in Electrical and Computer Engineering. The student chapter at UMKC, Theta Pi, was installed in 1980.
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/IEEE.png"/>](https://www.ieee.org/)
+
+**IEEE** \
+[**IEEE**](https://www.ieee.org/) • IEEE  is the world's leading professional association for advancing technology. \
+Membership Number: 93943359
+<br/>
+<br/>
+
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

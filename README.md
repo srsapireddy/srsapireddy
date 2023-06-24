@@ -16,6 +16,8 @@
 </h5>
 <br>
 
+<a href="https://medium.com/@srsapireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srsapireddy" height="50" width="50" /></a> 
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +30,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@srsapireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srsapireddy" height="50" width="50" /></a> 
 </p>
 
 <div align="center">

@@ -234,16 +234,37 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 <p align="center">
 
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/srsapireddy/srsapireddy/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/srsapireddy/srsapireddy/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 
 <!--🤔INTERESTTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=srsapireddy&color=0E9C47&style=for-the-badge">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src="https://camo.githubusercontent.com/831de4f419cb893fae5dc5edb238d56de1b860de7ebe00fc1188fe29088c6fc1/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d38623030376526637573746f6d5f7469746c653d2545322541442539302532305452494e4942253230254532254144253930" width="100%">
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/srsapireddy/srsapireddy/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
+<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
+<h4 align="right">
+<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/srsapireddy/srsapireddy/main/github-metrics.svg">
+</p>
+</details>
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 

@@ -21,33 +21,6 @@
 	<img src="https://media.giphy.com/media/A8NkSPltT13H2/giphy.gif" width="200" height="200">
 </div>
 
-## Knowledges
-
-```js
-export default () => ({
-  pronouns: "He" | "Him",
-  askMeAbout: [
-    "Hardware Acceleration", "tech", "music",
-    "Deep Learning", "research"
-  ],
-  technologies: {
-    frontEnd: {
-      js: ["react", "angular"],
-      css: ["bulma", "bootstrap"]
-    },
-    backEnd: {
-      js: ["node", "express"],
-      python: ["django", "flask"],
-      misc: ["bash"]
-    },
-    machineLearning: ["tensorflow", "keras"],
-    databases: ["mongo", "postgres", "NoSQL"]
-  },
-  memberships: [
-    "Institute of Electrical and Electronics Engineers"
-  ]
-});
-```
 ### Education
 In the overview below you will find my education:
 
@@ -73,6 +46,7 @@ Degree: Master of Science \
 [**UMKC**](https://www.umkc.edu/) • Electrical Engineering \
 Degree: Master of Science \
 <br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/GRIET.jpeg"/>](https://www.griet.ac.in/)
 
@@ -82,6 +56,33 @@ Degree: Bachelor of Technology \
 <br/>
 <br/>
 
+## Knowledges
+
+```js
+export default () => ({
+  pronouns: "He" | "Him",
+  askMeAbout: [
+    "Hardware Acceleration", "tech", "MLOps",
+    "Deep Learning", "research"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["react", "angular"],
+      css: ["bootstrap"]
+    },
+    backEnd: {
+      js: ["node", "express"],
+      python: ["flask"],
+      misc: ["bash"]
+    },
+    machineLearning: ["tensorflow", "keras"],
+    databases: ["MySQL"]
+  },
+  memberships: [
+    "Institute of Electrical and Electronics Engineers"
+  ]
+});
+```
 <!--
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 

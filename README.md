@@ -136,7 +136,7 @@ Membership Number: 93943359
 **Statistical Learning: Stanford University** \
 [**Statistical Learning**](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) </br>
 </br>
-• This is an intermediate-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical). 
+• This is an intermediate-level course in supervised learning, focusing on regression and classification methods. The syllabus includes linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection, and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical). 
 <br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/STANFORD.PNG)
 <br/>
@@ -147,7 +147,7 @@ Membership Number: 93943359
 **MLOps | Machine Learning Operations Specialization** \
 [**MLOps**](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
 </br>
-• This comprehensive course series is perfect for individuals with programming knowledge such as software developers, data scientists, and researchers. You'll acquire critical MLOps skills, including the use of Python and Rust, utilizing GitHub Copilot to enhance productivity, and leveraging platforms like Amazon SageMaker, Azure ML, and MLflow. You'll also learn how to fine-tune Large Language Models (LLMs) using Hugging Face and understand the deployment of sustainable and efficient binary embedded models in the ONNX format, setting you up for success in the ever-evolving field of MLOps <br>
+• This comprehensive course series is perfect for individuals with programming knowledge, such as software developers, data scientists, and researchers. You'll acquire critical MLOps skills, including using Python and Rust, utilizing GitHub Copilot to enhance productivity, and leveraging platforms like Amazon SageMaker, Azure ML, and MLflow. You'll also learn how to fine-tune Large Language Models (LLMs) using Hugging Face and understand the deployment of sustainable and efficient binary, embedded models in the ONNX format, setting you up for success in the ever-evolving field of MLOps. <br>
 <br/>
 <br/>
 
@@ -156,7 +156,7 @@ Membership Number: 93943359
 **CII Certified Product Management Program: Confederation of Indian Industry** \
 [**CII**](https://learn.ciieducation.in/) </br>
 </br>
-• Modules: Product Management, Product Design & User Experience, Product Design & Modelling, Agile Project Management, Product Marketing, Product Analysis, Technical Product Management 
+• Modules: Product Management, Product Design & User Experience, Product Design & Modelling, Agile Project Management, Product Marketing, Product Analysis, and Technical Product Management. 
 </br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/PM.png)
 
@@ -168,7 +168,7 @@ Membership Number: 93943359
 **Applied Accelerated Artificial Intelligence: C-DAC and National Supercomputing Mission** \
 [**CDAC**](https://iitgoa.ac.in/aishikshaai/) </br>
 </br>
-• This course will cover the fundamentals of the compute capabilities and the system software required for implementing artificial intelligence (AI) based solutions on industrial use cases such as the ones in the domains of healthcare and Smart City. The course will discuss end to end deployments of two industrial use cases with demonstration, and hence will help participants use state-of-the-art AI SDKs effectively to solve complex problems.
+• This course will cover the fundamentals of computing capabilities and the system software required to implement artificial intelligence (AI) based solutions on industrial use cases such as those in healthcare and Smart Cities. The course will discuss end-to-end deployments of two industrial use cases with demonstration. It will help participants use state-of-the-art AI SDKs effectively to solve complex problems.
 </br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/CDAC.PNG)
 
@@ -180,7 +180,19 @@ Membership Number: 93943359
 **Project Management Essentials Certified: Management and Strategy Institute** \
 [**MSI**](https://www.msicertified.com/project-management/project-management-essentials-certified/) </br>
 </br>
-• The Project Management Essentials Certification, designed exclusively for the Management and Strategy Institute, will provide you with a basic understanding of Project Management principles.
+• The Project Management Essentials Certification, designed exclusively for the Management and Strategy Institute, will give you a basic understanding of Project Management principles.
+
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/NIELIT.jpeg"/>](https://nielit.gov.in/sites/default/files/Chandigarh/MEA-online-4-week.pdf) </br>
+
+**MEAN Stack Development: NIELIT** \
+[**NIELIT**](https://nielit.gov.in/sites/default/files/Chandigarh/MEA-online-4-week.pdf) </br>
+</br>
+• Trained to use MongoDB (NoSQL) Database. Learning AngularJS as a Single Page Application development tool. Understand Server Application Development using Express. Build up skills required for developing dynamic websites. Enables collaboration of front-end developers, back-end developers,s and designers. 
+</br>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/MEAN.PNG)
 
 <br/>
 <br/>

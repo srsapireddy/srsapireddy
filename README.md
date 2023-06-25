@@ -131,7 +131,7 @@ Membership Number: 93943359
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Certifications:</h3>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/DUKE.jpeg"/>](https://www.coursera.org/specializations/mlops-machine-learning-duke)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/DUKE.jpeg"/>](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
 
 **MLOps | Machine Learning Operations Specialization** \
 [**MLOps**](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
@@ -139,7 +139,7 @@ Membership Number: 93943359
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/CII.jpeg"/>](https://learn.ciieducation.in/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/CII.jpeg"/>](https://learn.ciieducation.in/) </br>
 
 **CII Certified Product Management Program: Confederation of Indian Industry ** \
 [**CII**](https://learn.ciieducation.in/) </br>
@@ -148,7 +148,7 @@ Membership Number: 93943359
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/CDAC.jpeg"/>](https://iitgoa.ac.in/aishikshaai/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/CDAC.jpeg"/>](https://iitgoa.ac.in/aishikshaai/) </br>
 
 **Applied Accelerated Artificial Intelligence: C-DAC and National Supercomputing Mission ** \
 [**MSI**](https://iitgoa.ac.in/aishikshaai/) </br>
@@ -157,7 +157,7 @@ Membership Number: 93943359
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/MSI.jpeg"/>](https://www.msicertified.com/project-management/project-management-essentials-certified/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/MSI.jpeg"/>](https://www.msicertified.com/project-management/project-management-essentials-certified/) </br>
 
 **Project Management Essentials Certified: Management and Strategy Institute ** \
 [**MSI**](https://www.msicertified.com/project-management/project-management-essentials-certified/) </br>

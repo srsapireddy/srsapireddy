@@ -177,12 +177,14 @@ Membership Number: 93943359
 <br/>
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/HARDWARE.jpeg"/>](https://iitgoa.ac.in/aishikshaai/) </br>
+
 **Hardware Security: University of Maryland** \
 [**Hardware Security**](https://www.coursera.org/learn/hardware-securityl) </br>
 </br>
 • In this course, we will study security and trust from the hardware perspective. Upon completing the course, students will understand the vulnerabilities in current digital system design flow and the physical attacks on these systems. They will learn that security starts from hardware design and be familiar with the tools and skills to build secure and trusted hardware. <br/>
 <br>
-![](https://github.com/srsapireddy/srsapireddy/blob/master/images/HARDWARE.jpeg)
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/MARYLAND.PNG)
 <br/>
 <br/>
 

@@ -115,6 +115,7 @@ Degree: Bachelor of Technology \
 **Eta Kappa Nu** \
 [**Eta Kappa Nu**](https://hkn.ieee.org/) • Eta Kappa Nu is the Honor Society in Electrical and Computer Engineering. <br>
 <br/>
+<br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/KAPPA.jpg)
 
 <br/>

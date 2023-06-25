@@ -125,6 +125,44 @@ Membership Number: 93943359
 <br/>
 <br/>
 
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Certifications:</h3>
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/DUKE.jpeg"/>](https://www.coursera.org/specializations/mlops-machine-learning-duke)
+
+**MLOps | Machine Learning Operations Specialization** \
+[**MLOps**](https://www.coursera.org/specializations/mlops-machine-learning-duke) • This comprehensive course series is perfect for individuals with programming knowledge such as software developers, data scientists, and researchers. You'll acquire critical MLOps skills, including the use of Python and Rust, utilizing GitHub Copilot to enhance productivity, and leveraging platforms like Amazon SageMaker, Azure ML, and MLflow. You'll also learn how to fine-tune Large Language Models (LLMs) using Hugging Face and understand the deployment of sustainable and efficient binary embedded models in the ONNX format, setting you up for success in the ever-evolving field of MLOps <br>
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/CII.jpeg"/>](https://learn.ciieducation.in/)
+
+**CII Certified Product Management Program: Confederation of Indian Industry ** \
+[**CII**](https://learn.ciieducation.in/) • Modules: Product Management, Product Design & User Experience, Product Design & Modelling, Agile Project Management, Product Marketing, Product Analysis, Technical Product Management 
+
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/CDAC.jpeg"/>](https://iitgoa.ac.in/aishikshaai/)
+
+**Applied Accelerated Artificial Intelligence: C-DAC and National Supercomputing Mission ** \
+[**MSI**](https://iitgoa.ac.in/aishikshaai/) • This course will cover the fundamentals of the compute capabilities and the system software required for implementing artificial intelligence (AI) based solutions on industrial use cases such as the ones in the domains of healthcare and Smart City. The course will discuss end to end deployments of two industrial use cases with demonstration, and hence will help participants use state-of-the-art AI SDKs effectively to solve complex problems.
+
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/MSI.jpeg"/>](https://www.msicertified.com/project-management/project-management-essentials-certified/)
+
+**Project Management Essentials Certified: Management and Strategy Institute ** \
+[**MSI**](https://www.msicertified.com/project-management/project-management-essentials-certified/) • The Project Management Essentials Certification, designed exclusively for the Management and Strategy Institute, will provide you with a basic understanding of Project Management principles.
+
+<br/>
+<br/>
+
+
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

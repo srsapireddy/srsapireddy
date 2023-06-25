@@ -222,7 +222,7 @@ Membership Number: 93943359
 <h3 align="left">Hackathons:</h3>
 
 **Hackathon 2021** <br/>
-![](https://github.com/srsapireddy/srsapireddy/blob/master/images/HACK_1.png)
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/HACK_1.jpg)
 <br/>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/2021.PNG)
 <br/>

@@ -77,7 +77,7 @@
 
 **National Institute of Electronics and Information Technology (NIELIT)** \
 [**NIELIT**](https://nielit.gov.in/) • Artificial Intelligence \
-Degree: Advanced Diploma \
+Degree: Advanced Diploma (January 2020) \
 <br/>
 <br/>
 
@@ -85,7 +85,7 @@ Degree: Advanced Diploma \
 
 **University of Illinois at Springfield (UIS)** \
 [**UIS**](https://www.uis.edu/) • Computer Science \
-Degree: Master of Science  <br/>
+Degree: Master of Science (December 2018)  <br/>
 <br/>
 <br/>
 
@@ -93,7 +93,7 @@ Degree: Master of Science  <br/>
 
 **University of Missouri Kansas City (UMKC)** \
 [**UMKC**](https://www.umkc.edu/) • Electrical Engineering \
-Degree: Master of Science  <br/>
+Degree: Master of Science (December 2016)  <br/>
 <br/>
 <br/>
 
@@ -101,7 +101,7 @@ Degree: Master of Science  <br/>
 
 **Gokaraju Rangaraju Institute of Engineering and Technology (GRIET)** \
 [**GRIET**](https://www.griet.ac.in/) • Electronics and Communication Engineering \
-Degree: Bachelor of Technology \
+Degree: Bachelor of Technology (April 2014) \
 <br/>
 <br/>
 

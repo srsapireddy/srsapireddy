@@ -165,7 +165,7 @@ Membership Number: 93943359
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/CDAC.jpeg"/>](https://iitgoa.ac.in/aishikshaai/) </br>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/IIT.png"/>](https://iitgoa.ac.in/aishikshaai/) </br>
 
 **Applied Accelerated Artificial Intelligence: C-DAC and National Supercomputing Mission** \
 [**CDAC**](https://iitgoa.ac.in/aishikshaai/) </br>

@@ -221,15 +221,15 @@ Membership Number: 93943359
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Hackathons:</h3>
 
-**Hackathon 2021** <br/>
-![](https://github.com/srsapireddy/srsapireddy/blob/master/images/HACK_1.jpg)
+**UMKC Hackathon 2022: Second Place Award (Entrepreneur Track)** <br/>
 <br/>
-![](https://github.com/srsapireddy/srsapireddy/blob/master/images/2021.PNG)
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/2022.PNG) <br/>
 <br/>
 
-**Hackathon 2022** <br/>
+**UMKC Hackathon 2021: Third Place Award (CS/ IT Track)** <br/>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/HACK_1.jpg) <br/>
 <br/>
-![](https://github.com/srsapireddy/srsapireddy/blob/master/images/2022.PNG)
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/2021.PNG) <br/>
 <br/>
 
 <!--📏LINE-->

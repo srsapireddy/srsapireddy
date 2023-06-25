@@ -110,14 +110,12 @@ Degree: Bachelor of Technology \
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Organizations:</h3>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/NU.png"/>](https://hkn.ieee.org/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/NU.png"/>](https://hkn.ieee.org/) <br/>
 
 **Eta Kappa Nu** \
-[**Eta Kappa Nu**](https://hkn.ieee.org/) • Eta Kappa Nu is the Honor Society in Electrical and Computer Engineering. <br>
+[**Eta Kappa Nu**](https://hkn.ieee.org/) • Eta Kappa Nu is the Honor Society in Electrical and Computer Engineering. <br><br/>
 <br/>
-<br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/KAPPA.jpg)
-
 <br/>
 <br/>
 

@@ -156,6 +156,8 @@ Membership Number: 93943359
 [**CDAC**](https://iitgoa.ac.in/aishikshaai/) </br>
 </br>
 • This course will cover the fundamentals of the compute capabilities and the system software required for implementing artificial intelligence (AI) based solutions on industrial use cases such as the ones in the domains of healthcare and Smart City. The course will discuss end to end deployments of two industrial use cases with demonstration, and hence will help participants use state-of-the-art AI SDKs effectively to solve complex problems.
+</br>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/CDAC.PNG)
 
 <br/>
 <br/>

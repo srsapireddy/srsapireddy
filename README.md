@@ -156,6 +156,8 @@ Membership Number: 93943359
 [**MLOps**](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
 </br>
 • This comprehensive course series is perfect for individuals with programming knowledge, such as software developers, data scientists, and researchers. You'll acquire critical MLOps skills, including using Python and Rust, utilizing GitHub Copilot to enhance productivity, and leveraging platforms like Amazon SageMaker, Azure ML, and MLflow. You'll also learn how to fine-tune Large Language Models (LLMs) using Hugging Face and understand the deployment of sustainable and efficient binary, embedded models in the ONNX format, setting you up for success in the ever-evolving field of MLOps. <br>
+</br>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/MLOPS.jpg)
 <br/>
 <br/>
 

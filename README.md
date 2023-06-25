@@ -131,6 +131,17 @@ Membership Number: 93943359
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Certifications:</h3>
 
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/STANFORD.jpeg"/>](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) </br>
+
+**Statistical Learning: Stanford University** \
+[**Statistical Learning**](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) </br>
+</br>
+• This is an intermediate-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical). 
+<br>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/STANFORD.PNG)
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/DUKE.jpeg"/>](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
 
 **MLOps | Machine Learning Operations Specialization** \

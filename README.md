@@ -177,6 +177,15 @@ Membership Number: 93943359
 <br/>
 <br/>
 
+**Hardware Security: University of Maryland** \
+[**Hardware Security**](https://www.coursera.org/learn/hardware-securityl) </br>
+</br>
+• In this course, we will study security and trust from the hardware perspective. Upon completing the course, students will understand the vulnerabilities in current digital system design flow and the physical attacks on these systems. They will learn that security starts from hardware design and be familiar with the tools and skills to build secure and trusted hardware. <br/>
+<br>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/HARDWARE.jpeg)
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/MSI.jpeg"/>](https://www.msicertified.com/project-management/project-management-essentials-certified/) </br>
 
 **Project Management Essentials Certified: Management and Strategy Institute** \
@@ -192,7 +201,7 @@ Membership Number: 93943359
 **MEAN Stack Development: NIELIT** \
 [**NIELIT**](https://nielit.gov.in/sites/default/files/Chandigarh/MEA-online-4-week.pdf) </br>
 </br>
-• Trained to use MongoDB (NoSQL) Database. Learning AngularJS as a Single Page Application development tool. Understand Server Application Development using Express. Build up skills required for developing dynamic websites. Enables collaboration of front-end developers, back-end developers,s and designers.  <br/>
+• Trained to use MongoDB (NoSQL) Database. Learning AngularJS as a Single Page Application development tool. Understand Server Application Development using Express. Build up skills required for developing dynamic websites. Enables collaboration of front-end developers, back-end developers, and designers.  <br/>
 </br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/MEAN.PNG)
 

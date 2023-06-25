@@ -146,6 +146,8 @@ Membership Number: 93943359
 [**CII**](https://learn.ciieducation.in/) </br>
 </br>
 • Modules: Product Management, Product Design & User Experience, Product Design & Modelling, Agile Project Management, Product Marketing, Product Analysis, Technical Product Management 
+</br>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/PM.png)
 
 <br/>
 <br/>

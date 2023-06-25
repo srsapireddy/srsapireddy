@@ -136,7 +136,7 @@ Membership Number: 93943359
 **Statistical Learning: Stanford University** \
 [**Statistical Learning**](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) </br>
 </br>
-• This is an intermediate-level course in supervised learning, focusing on regression and classification methods. The syllabus includes linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection, and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical). 
+• This is an intermediate-level course in supervised learning, focusing on regression and classification methods. The syllabus includes linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection, and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical). <br/>
 <br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/STANFORD.PNG)
 <br/>
@@ -156,7 +156,7 @@ Membership Number: 93943359
 **CII Certified Product Management Program: Confederation of Indian Industry** \
 [**CII**](https://learn.ciieducation.in/) </br>
 </br>
-• Modules: Product Management, Product Design & User Experience, Product Design & Modelling, Agile Project Management, Product Marketing, Product Analysis, and Technical Product Management. 
+• Modules: Product Management, Product Design & User Experience, Product Design & Modelling, Agile Project Management, Product Marketing, Product Analysis, and Technical Product Management. <br/> 
 </br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/PM.png)
 
@@ -168,7 +168,7 @@ Membership Number: 93943359
 **Applied Accelerated Artificial Intelligence: C-DAC and National Supercomputing Mission** \
 [**CDAC**](https://iitgoa.ac.in/aishikshaai/) </br>
 </br>
-• This course will cover the fundamentals of computing capabilities and the system software required to implement artificial intelligence (AI) based solutions on industrial use cases such as those in healthcare and Smart Cities. The course will discuss end-to-end deployments of two industrial use cases with demonstration. It will help participants use state-of-the-art AI SDKs effectively to solve complex problems.
+• This course will cover the fundamentals of computing capabilities and the system software required to implement artificial intelligence (AI) based solutions on industrial use cases such as those in healthcare and Smart Cities. The course will discuss end-to-end deployments of two industrial use cases with demonstration. It will help participants use state-of-the-art AI SDKs effectively to solve complex problems. <br/>
 </br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/CDAC.PNG)
 
@@ -180,7 +180,7 @@ Membership Number: 93943359
 **Project Management Essentials Certified: Management and Strategy Institute** \
 [**MSI**](https://www.msicertified.com/project-management/project-management-essentials-certified/) </br>
 </br>
-• The Project Management Essentials Certification, designed exclusively for the Management and Strategy Institute, will give you a basic understanding of Project Management principles.
+• The Project Management Essentials Certification, designed exclusively for the Management and Strategy Institute, will give you a basic understanding of Project Management principles. <br/>
 
 <br/>
 <br/>
@@ -190,7 +190,7 @@ Membership Number: 93943359
 **MEAN Stack Development: NIELIT** \
 [**NIELIT**](https://nielit.gov.in/sites/default/files/Chandigarh/MEA-online-4-week.pdf) </br>
 </br>
-• Trained to use MongoDB (NoSQL) Database. Learning AngularJS as a Single Page Application development tool. Understand Server Application Development using Express. Build up skills required for developing dynamic websites. Enables collaboration of front-end developers, back-end developers,s and designers. 
+• Trained to use MongoDB (NoSQL) Database. Learning AngularJS as a Single Page Application development tool. Understand Server Application Development using Express. Build up skills required for developing dynamic websites. Enables collaboration of front-end developers, back-end developers,s and designers.  <br/>
 </br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/MEAN.PNG)
 

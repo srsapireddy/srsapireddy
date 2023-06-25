@@ -85,7 +85,7 @@ Degree: Advanced Diploma \
 
 **University of Illinois at Springfield (UIS)** \
 [**UIS**](https://www.uis.edu/) • Computer Science \
-Degree: Master of Science \
+Degree: Master of Science \ <br/>
 <br/>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/UI.png)
 <br/>
@@ -95,7 +95,7 @@ Degree: Master of Science \
 
 **University of Missouri Kansas City (UMKC)** \
 [**UMKC**](https://www.umkc.edu/) • Electrical Engineering \
-Degree: Master of Science \
+Degree: Master of Science \ <br/>
 <br/>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/UMKC.png)
 <br/>

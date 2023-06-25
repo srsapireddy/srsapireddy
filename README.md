@@ -142,7 +142,7 @@ Membership Number: 93943359
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/CII.jpeg"/>](https://learn.ciieducation.in/) </br>
 
-**CII Certified Product Management Program: Confederation of Indian Industry ** \
+**CII Certified Product Management Program: Confederation of Indian Industry** \
 [**CII**](https://learn.ciieducation.in/) </br>
 </br>
 • Modules: Product Management, Product Design & User Experience, Product Design & Modelling, Agile Project Management, Product Marketing, Product Analysis, Technical Product Management 
@@ -152,7 +152,7 @@ Membership Number: 93943359
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/CDAC.jpeg"/>](https://iitgoa.ac.in/aishikshaai/) </br>
 
-**Applied Accelerated Artificial Intelligence: C-DAC and National Supercomputing Mission ** \
+**Applied Accelerated Artificial Intelligence: C-DAC and National Supercomputing Mission** \
 [**CDAC**](https://iitgoa.ac.in/aishikshaai/) </br>
 </br>
 • This course will cover the fundamentals of the compute capabilities and the system software required for implementing artificial intelligence (AI) based solutions on industrial use cases such as the ones in the domains of healthcare and Smart City. The course will discuss end to end deployments of two industrial use cases with demonstration, and hence will help participants use state-of-the-art AI SDKs effectively to solve complex problems.
@@ -162,7 +162,7 @@ Membership Number: 93943359
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/MSI.jpeg"/>](https://www.msicertified.com/project-management/project-management-essentials-certified/) </br>
 
-**Project Management Essentials Certified: Management and Strategy Institute ** \
+**Project Management Essentials Certified: Management and Strategy Institute** \
 [**MSI**](https://www.msicertified.com/project-management/project-management-essentials-certified/) </br>
 </br>
 • The Project Management Essentials Certification, designed exclusively for the Management and Strategy Institute, will provide you with a basic understanding of Project Management principles.

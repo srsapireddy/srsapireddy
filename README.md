@@ -87,6 +87,8 @@ Degree: Advanced Diploma \
 [**UIS**](https://www.uis.edu/) • Computer Science \
 Degree: Master of Science \
 <br/>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/UI.png)
+<br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/UMKC.jpeg"/>](https://www.umkc.edu/)
@@ -94,6 +96,8 @@ Degree: Master of Science \
 **University of Missouri Kansas City (UMKC)** \
 [**UMKC**](https://www.umkc.edu/) • Electrical Engineering \
 Degree: Master of Science \
+<br/>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/UMKC.png)
 <br/>
 <br/>
 

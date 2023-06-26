@@ -210,6 +210,23 @@ Membership Number: 93943359
 <br/>
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/intel.jpeg"/>](https://www.coursera.org/specializations/intel-cloud-business-pro-v1) </br>
+
+**Mathematics for Machine Learning Specialization: Imperial College London** \
+[**INTEL**](https://www.coursera.org/specializations/intel-cloud-business-pro-v1) </br>
+</br>
+• Understanding the business aspects of the cloud is key for any organization using it as the backbone for their products and services. Take your cloud acumen to the next level to sell better and address cloud-related issues. This in-depth curriculum covers a variety of relevant topics for any seasoned cloud professional, including
+assessing an organization's enterprise needs and guiding customers to practical solutions. Learn the intricacies and importance of critical topics, including workload placement strategies, cloud architecture offerings, cloud financial operations, and pricing information. <br/>
+
+**Courses in the specialization**
+1. Enterprise Business Requirements Driven Cloud <br/>
+2. Business Case for Cloud Workloads <br/>
+3. Cloud Pricing and Financial Operations (FinOps) <br/>
+<br/>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/CLOUD.PNG)
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/MSI.jpeg"/>](https://www.msicertified.com/project-management/project-management-essentials-certified/) </br>
 
 **Project Management Essentials Certified: Management and Strategy Institute** \

@@ -127,6 +127,21 @@ Membership Number: 93943359
 <br/>
 <br/>
 
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Professional Badges:</h3>
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/INTELPRO.png"/>](https://www.credly.com/badges/181db7c0-0656-4119-abdc-73940b11fedc/public_url) </br>
+
+**Intel Solution Pro Cloud Business Professional** \
+[**Intel Professional Badge**](https://www.credly.com/badges/181db7c0-0656-4119-abdc-73940b11fedc/public_url) </br>
+</br>
+• Intel Cloud Business Professional badge earners have a demonstrated ability to assess an organization’s enterprise needs. They can guide customers to practical cloud solutions based on their knowledge of workload placement strategies, cloud architecture, and service offerings. <br/>
+<br>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/INT.PNG)
+<br/>
+<br/>
 
 <!--📏LINE-->
 <p align="center">

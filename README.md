@@ -224,6 +224,7 @@ assessing an organization's enterprise needs and guiding customers to practical 
 3. Cloud Pricing and Financial Operations (FinOps) <br/>
 <br/>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/CLOUD.PNG)
+
 <br/>
 <br/>
 

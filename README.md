@@ -151,6 +151,12 @@ Membership Number: 93943359
 </br>
 • This comprehensive course series is perfect for individuals with programming knowledge, such as software developers, data scientists, and researchers. You'll acquire critical MLOps skills, including using Python and Rust, utilizing GitHub Copilot to enhance productivity, and leveraging platforms like Amazon SageMaker, Azure ML, and MLflow. You'll also learn how to fine-tune Large Language Models (LLMs) using Hugging Face and understand the deployment of sustainable and efficient binary, embedded models in the ONNX format, setting you up for success in the ever-evolving field of MLOps. <br>
 </br>
+**Courses in the specialization**
+1. Python Essentials for MLOps </br>
+2. DevOps, DataOps, MLOps </br>
+3. MLOps Platforms: Amazon SageMaker and Azure ML </br>
+4. MLOps Tools: MLflow and Hugging Face </br>
+
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/MLOPS.jpg)
 <br/>
 <br/>
@@ -173,6 +179,10 @@ Membership Number: 93943359
 [**ICL**](https://www.coursera.org/specializations/mathematics-machine-learning) </br>
 </br>
 • For a lot of higher-level courses in Machine Learning and Data Science, you find you need to freshen up on the basics in mathematics - stuff you may have studied before in school or university, but which was taught in another context or not very intuitively, such that you struggle to relate it to how it’s used in Computer Science. This specialization aims to bridge that gap, getting you up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science. <br/>
+**Courses in the specialization**
+1. Mathematics for Machine Learning: Linear Algebra </br>
+2. Mathematics for Machine Learning: Multivariate Calculus </br>
+3. Mathematics for Machine Learning: PCA </br>
 <br/>
 <br/>
 
@@ -183,6 +193,7 @@ Membership Number: 93943359
 </br>
 • This course will cover the fundamentals of computing capabilities and the system software required to implement artificial intelligence (AI) based solutions on industrial use cases such as those in healthcare and Smart Cities. The course will discuss end-to-end deployments of two industrial use cases with demonstration. It will help participants use state-of-the-art AI SDKs effectively to solve complex problems. <br/>
 </br>
+
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/CDAC.PNG)
 
 <br/>

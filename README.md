@@ -167,8 +167,6 @@ Membership Number: 93943359
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/IIT.png"/>](https://iitgoa.ac.in/aishikshaai/) </br>
-
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/ICL.jpeg"/>](https://www.coursera.org/specializations/mathematics-machine-learning) </br>
 
 **Mathematics for Machine Learning Specialization: Imperial College London** \
@@ -177,6 +175,8 @@ Membership Number: 93943359
 • For a lot of higher-level courses in Machine Learning and Data Science, you find you need to freshen up on the basics in mathematics - stuff you may have studied before in school or university, but which was taught in another context or not very intuitively, such that you struggle to relate it to how it’s used in Computer Science. This specialization aims to bridge that gap, getting you up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science. <br/>
 <br/>
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/IIT.png"/>](https://iitgoa.ac.in/aishikshaai/) </br>
 
 **Applied Accelerated Artificial Intelligence: C-DAC and National Supercomputing Mission** \
 [**CDAC**](https://iitgoa.ac.in/aishikshaai/) </br>

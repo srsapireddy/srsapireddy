@@ -280,6 +280,16 @@ assessing an organization's enterprise needs and guiding customers to practical 
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/2021.PNG) <br/>
 <br/>
 
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Other Certificates:</h3>
+
+<br/>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/GUINNESS.PNG) <br/>
+<br/>
+
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

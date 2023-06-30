@@ -287,7 +287,7 @@ assessing an organization's enterprise needs and guiding customers to practical 
 <h3 align="left">Other Certificates:</h3>
 
 <br/>
-![](https://github.com/srsapireddy/srsapireddy/blob/master/images/GUINNESS.PNG?raw=true) <br/>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/GUINNESS.PNG) <br/>
 <br/>
 
 <!--📏LINE-->

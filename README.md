@@ -198,9 +198,9 @@ Membership Number: 93943359
 1. Mathematics for Machine Learning: Linear Algebra </br>
 2. Mathematics for Machine Learning: Multivariate Calculus </br>
 3. Mathematics for Machine Learning: PCA </br>
-<br/>
+
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/ICL.PNG) <br/>
-<br/>
+
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/IIT.png"/>](https://iitgoa.ac.in/aishikshaai/) </br>
 

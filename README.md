@@ -199,6 +199,7 @@ Membership Number: 93943359
 2. Mathematics for Machine Learning: Multivariate Calculus </br>
 3. Mathematics for Machine Learning: PCA </br>
 <br/>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/ICL.PNG) <br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/IIT.png"/>](https://iitgoa.ac.in/aishikshaai/) </br>
@@ -230,7 +231,7 @@ Membership Number: 93943359
 **Cloud Business Professional Specialization: INTEL** \
 [**INTEL**](https://www.coursera.org/specializations/intel-cloud-business-pro-v1) </br>
 </br>
-• Understanding the business aspects of the cloud is key for any organization using it as the backbone for their products and services. Take your cloud acumen to the next level to sell better and address cloud-related issues. This in-depth curriculum covers a variety of relevant topics for any seasoned cloud professional, including
+• Understanding the business aspects of the cloud is key for any organization using it as the backbone for their products and services. Take your cloud acumen to the next level to sell better and address cloud-related issues. This in-depth curriculum covers various relevant topics for any seasoned cloud professional, including
 assessing an organization's enterprise needs and guiding customers to practical solutions. Learn the intricacies and importance of critical topics, including workload placement strategies, cloud architecture offerings, cloud financial operations, and pricing information. <br/>
 
 **Courses in the specialization**

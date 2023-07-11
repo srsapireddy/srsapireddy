@@ -135,6 +135,9 @@ Membership Number: 93943359
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/cad.PNG"/>](https://www.credly.com/badges/20f4bad4-2418-4696-b352-739b142f4c7c/public_url) </br>
 
 **Cadence RTL-to-GDSII Flow v5.0** \
+<br>
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/intelpro.PNG"/>](https://www.credly.com/badges/181db7c0-0656-4119-abdc-73940b11fedc/public_url) </br>
 
 **Intel Solution Pro Cloud Business Professional** \
 [**Intel Professional Badge**](https://www.credly.com/badges/181db7c0-0656-4119-abdc-73940b11fedc/public_url) </br>

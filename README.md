@@ -145,10 +145,10 @@ Membership Number: 93943359
 </br>
 • Intel Cloud Business Professional badge earners have a demonstrated ability to assess an organization’s enterprise needs. They can guide customers to practical cloud solutions based on their knowledge of workload placement strategies, cloud architecture, and service offerings. <br/>
 <br>
-![](https://github.com/srsapireddy/srsapireddy/blob/master/images/fortinet_badge.png)
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/INT.PNG)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/INT.PNG"/>](https://www.credly.com/earner/earned/badge/1aeb2d54-1932-49db-bc63-b4efaef5a681) </br>
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/fortinet_badge.png"/>](https://www.credly.com/earner/earned/badge/1aeb2d54-1932-49db-bc63-b4efaef5a681) </br>
 
 **Network Security Associate** \
 [**NSE Professional Badge**](https://www.credly.com/earner/earned/badge/1aeb2d54-1932-49db-bc63-b4efaef5a681) </br>

@@ -153,7 +153,7 @@ Membership Number: 93943359
 **Network Security Associate** \
 [**Intel Professional Badge**](https://www.credly.com/earner/earned/badge/1aeb2d54-1932-49db-bc63-b4efaef5a681) </br>
 </br>
-• Intel Cloud Business Professional badge earners have a demonstrated ability to assess an organization’s enterprise needs. They can guide customers to practical cloud solutions based on their knowledge of workload placement strategies, cloud architecture, and service offerings. <br/>
+• The Introduction to the Threat Landscape 1.0 badge recognizes a fundamental understanding of the cyber threat landscape. The badge earner has demonstrated essential knowledge of the threats that endanger computer networks, the cast of bad actors who are behind cyber threats, and the cyber security principles that can keep users and computer networks safe. <br/>
 <br>
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/NSE.JPG)
 <br/>

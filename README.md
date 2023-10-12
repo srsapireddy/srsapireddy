@@ -148,7 +148,7 @@ Membership Number: 93943359
 ![](https://github.com/srsapireddy/srsapireddy/blob/master/images/fortinet_badge.png)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/fortinet.png"/>](https://www.credly.com/earner/earned/badge/1aeb2d54-1932-49db-bc63-b4efaef5a681) </br>
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/fortinet_badge.png"/>](https://www.credly.com/earner/earned/badge/1aeb2d54-1932-49db-bc63-b4efaef5a681) </br>
 
 **Network Security Associate** \
 [**Intel Professional Badge**](https://www.credly.com/earner/earned/badge/1aeb2d54-1932-49db-bc63-b4efaef5a681) </br>

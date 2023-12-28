@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
 
 
-Hi, I'm Srinivas Rahul, a passionate, self-taught data science engineer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Srinivas Rahul, a passionate, self-taught data science engineer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -58,6 +58,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
+Please find me on [LinkedIn](https://www.linkedin.com/in/srsapireddy2020/) for a more detailed description of my full work experience, education, and certification.
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

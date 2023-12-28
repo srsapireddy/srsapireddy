@@ -529,7 +529,7 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srinivas&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/srsapireddy/github-readme-activity)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srsapireddy&theme=github-dark-dimmed&custom_title=srsapireddy%20Activity%20Graph&hide_border=true)](https://github.com/srsapireddy/github-readme-activity)
 
 
 

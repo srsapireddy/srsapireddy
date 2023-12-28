@@ -111,7 +111,7 @@ Degree: Bachelor of Technology (April 2014) \
 <h3 align="left">Organizations:</h3>
 
 
-ASIC Physical Design Course Class Picture: Fall 2023, my first class as an instructor.
+** ASIC Physical Design Course Class Picture: Fall 2023, my first class as an instructor.
 
 <!--📏LINE-->
 <p align="center">

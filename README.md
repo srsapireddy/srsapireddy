@@ -1,5 +1,7 @@
 # :man_technologist: Sapireddy Srinivas Rahul GitHub Profile  
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/srsapireddy/github-readme-activity
+
 ![Header](./github-header-image.png)
 
 <!--📏LINE-->

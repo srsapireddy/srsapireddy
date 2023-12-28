@@ -113,7 +113,8 @@ Degree: Bachelor of Technology (April 2014) \
 
 **ASIC Physical Design Course Class Picture: Fall 2023, my first class as an instructor** </br>
 
-![image](https://github.com/srsapireddy/srsapireddy/assets/32967087/0dcf37a0-227b-4eb9-a2f8-e8876974c90e)
+![WhatsApp Image 2023-12-27 at 20 57 08_a0e9d2c8](https://github.com/srsapireddy/srsapireddy/assets/32967087/8e716d32-c0f4-4f06-98a7-fcb5c01788e2)
+
 
 
 <!--📏LINE-->

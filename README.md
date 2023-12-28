@@ -1,7 +1,5 @@
 # :man_technologist: Sapireddy Srinivas Rahul GitHub Profile  
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/srsapireddy/github-readme-activity
-
 ![Header](./github-header-image.png)
 
 <!--📏LINE-->
@@ -61,6 +59,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/srsapireddy2020/) for a more detailed description of my full work experience, education, and certification.
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/srsapireddy/github-readme-activity
+
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

@@ -28,6 +28,34 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
 
+
+Hi, I'm Srinivas Rahul, a passionate, self-taught data science engineer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/srsapireddy/srsapireddy/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:sapireddysrinivas2020@gmail.com) :)
+- 💬 ask me about anything, I am happy to help;
+
+📊 **This week, I spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+Deep Learning     	6 hrs 35 mins   ████████████████████░░░░░   80.37 %
+Bash              	25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Git Config        	22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Data Structures         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Statistical Learning    20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+```
+
+<!--END_SECTION:waka-->
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/sapireddy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

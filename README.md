@@ -63,7 +63,17 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31zduid7lkxbeuuydydnzbdfkbtm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zduid7lkxbeuuydydnzbdfkbtm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
+<p align="center">
+  <img src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=31zduid7lkxbeuuydydnzbdfkbtm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zduid7lkxbeuuydydnzbdfkbtm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true">
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zduid7lkxbeuuydydnzbdfkbtm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zduid7lkxbeuuydydnzbdfkbtm&count=5">
+</p>
 
 <!--📏LINE-->
 <p align="center">

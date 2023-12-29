@@ -68,12 +68,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <p align="center">
-  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=31zduid7lkxbeuuydydnzbdfkbtm&count=5">
-</p>
-
-<p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zduid7lkxbeuuydydnzbdfkbtm&count=5">
 </p>
+
 
 <!--📏LINE-->
 <p align="center">

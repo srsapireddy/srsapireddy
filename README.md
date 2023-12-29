@@ -475,15 +475,6 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
  
 </p>
 
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-🔭Actions
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/srsapireddy?template=classic&config.timezone=USA"/>
-</div>
-
 
 <!--📏LINE-->
 <p align="center">

@@ -58,11 +58,12 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/srsapireddy2020/) for a more detailed description of my full work experience, education, and certification.
 
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31zduid7lkxbeuuydydnzbdfkbtm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zduid7lkxbeuuydydnzbdfkbtm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
 
 <!--📏LINE-->
 <p align="center">

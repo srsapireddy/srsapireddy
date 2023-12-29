@@ -67,7 +67,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=31zduid7lkxbeuuydydnzbdfkbtm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zduid7lkxbeuuydydnzbdfkbtm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true">
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zduid7lkxbeuuydydnzbdfkbtm&count={count})
+<p align="center">
+  <img src = "https://spotify-recently-played-readme.vercel.app/api?user=31zduid7lkxbeuuydydnzbdfkbtm&count=5">
+</p>
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zduid7lkxbeuuydydnzbdfkbtm&count=5">

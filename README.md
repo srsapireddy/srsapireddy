@@ -92,7 +92,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 	<a href="https://medium.com/@srsapireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srsapireddy" height="50" width="50" /></a> 
 </p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@<srsapireddy>/<1>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<srsapireddy>/<2>" alt="Recent article #1"></a>
+<p align="center">
+  <img src = "https://github-readme-medium-recent-article.vercel.app/medium/@<srsapireddy>/<1>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<srsapireddy>/<2>" alt="Recent article #1"></a>](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`srsapireddy">
+</p>
 
 <!--📏LINE-->
 <p align="center">

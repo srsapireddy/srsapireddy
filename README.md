@@ -93,7 +93,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <p align="center">
-  <img src = "https://github-readme-medium-recent-article.vercel.app/medium/@<srsapireddy>/<1>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<srsapireddy>/<2>" alt="Recent article #1"></a>](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`srsapireddy">
+  <img src = "https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`srsapireddy`">
 </p>
 
 <!--📏LINE-->

@@ -52,7 +52,6 @@ Statistical Learning    20 mins         █░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![image](https://github.com/srsapireddy/srsapireddy/assets/32967087/95ec5d9f-d969-4866-9d22-528dce5a360d)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 

@@ -161,7 +161,7 @@ Degree: Bachelor of Technology (April 2014) \
 **SSE - Senator: UMKC Student Government Association** \
 [**UMKC SGA**](https://kcroonews.com/tag/sga/) \
 <br/>
-
+<br/>
 
 <!--📏LINE-->
 <p align="center">

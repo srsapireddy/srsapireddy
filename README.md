@@ -160,7 +160,6 @@ Degree: Bachelor of Technology (April 2014) \
 
 **SSE - Senator: UMKC Student Government Association** \
 [**UMKC SGA**](https://kcroonews.com/tag/sga/) \
-Semesters: Fall 2023, Spring 2024 
 <br/>
 
 

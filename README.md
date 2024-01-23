@@ -151,8 +151,11 @@ Degree: Bachelor of Technology (April 2014) \
 <br/>
 
 <!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/Gdownload.png"/>](https://kcroonews.com/tag/sga/)
+<h3 align="left">University Involvement</h3>
+[<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/download.png"/>](https://kcroonews.com/tag/sga/)
 
 **SSE - Senator: UMKC Student Government Association** \
 [**UMKC SGA**](https://kcroonews.com/tag/sga/) \
@@ -163,7 +166,7 @@ Semesters: Fall 2023, Spring 2024
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">University Involvement</h3>
+
 
 
 **ASIC Physical Design Course Class Picture: Fall 2023, my first class as an instructor** </br>

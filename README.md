@@ -160,6 +160,9 @@ Degree: Bachelor of Technology (April 2014) \
 
 **SSE - Senator: UMKC Student Government Association** \
 [**UMKC SGA**](https://kcroonews.com/tag/sga/) \
+Re-elected as Senator for the School of Science and Engineering for the term 2024-2025. \
+Election Results: </br>
+![WhatsApp Image 2024-03-22 at 13 04 09_728a239d](https://github.com/srsapireddy/srsapireddy/assets/32967087/94999347-d15d-498d-b3f0-5e8d8219b5f1)
 <br/>
 <br/>
 

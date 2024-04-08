@@ -98,6 +98,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <h3 align="left">Experience:</h3>
 
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/smartbridge.jpeg"/>](https://www.thesmartbridge.com/)
+
+**Artificial Intelligence Developer Intern** \
+[**TheSmartBridge**](https://github.com/srsapireddy/srsapireddy/blob/master/SmartInternz%20-%20Certificate.pdf) • Remote <br/><br/>
+<br/>
+<br/>
+
+
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/services.jpg"/>](https://www.uis.edu/dining)
 
 **Graduate Student Assistant: Dining Services** \

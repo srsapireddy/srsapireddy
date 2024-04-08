@@ -98,7 +98,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <h3 align="left">Experience:</h3>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/meghalaya.jpeg"/>]()
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/meghalaya.jpeg"/>](https://github.com/srsapireddy/srsapireddy/blob/master/fpga-2.pdf)
 
 **Internship on FPGA-based Embedded systems for DSP Applications** \
 [**National Institute of Technology Meghalaya**](https://github.com/srsapireddy/srsapireddy/blob/master/fpga-2.pdf) • Remote 

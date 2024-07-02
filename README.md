@@ -168,7 +168,7 @@ Degree: Bachelor of Technology (April 2014) \
 **Member: Missouri Society of Professional Engineers - Western Chapter** \
 [**NSPE**](https://mspe.org/) \
 </br>
-![Image]([https://github.com/srsapireddy/srsapireddy/assets/32967087/94999347-d15d-498d-b3f0-5e8d8219b5f1](https://github.com/srsapireddy/srsapireddy/blob/master/images/nspe_1.JPG)
+![image](https://github.com/srsapireddy/srsapireddy/assets/32967087/c8baacc5-932d-4cbd-9501-106dcb99f138)
 <br/>
 <br/>
 

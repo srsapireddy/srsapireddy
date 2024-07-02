@@ -163,6 +163,16 @@ Degree: Bachelor of Technology (April 2014) \
 
 <h3 align="left">University Involvement</h3>
 
+[<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/nspe.png"/>](https://mspe.org/)
+
+**Member: Missouri Society of Professional Engineers - Western Chapter** \
+[**NSPE**](https://mspe.org/) \
+Election Results: </br>
+![https://github.com/srsapireddy/srsapireddy/assets/32967087/36421aeb-4b99-483d-a0a1-d11b31ce405b](https://github.com/srsapireddy/srsapireddy/assets/32967087/94999347-d15d-498d-b3f0-5e8d8219b5f1)
+<br/>
+<br/>
+
+
 [<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/download.png"/>](https://kcroonews.com/tag/sga/)
 
 **SSE - Senator: UMKC Student Government Association** \

@@ -98,7 +98,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <h3 align="left">Experience:</h3>
 
-[<img align="left" height="94px" width="124px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/mide.png"/>](https://www.umkc.edu/mide/)
+[<img align="left" height="94px" width="174px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/mide.png"/>](https://www.umkc.edu/mide/)
 
 **Research Assistant: Missouri Institute for Defense & Energy** \
 [**UIS**](https://www.umkc.edu/mide/) • Part-Time <br/><br/>

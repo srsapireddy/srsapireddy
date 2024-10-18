@@ -152,7 +152,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/iiitd.jpg"/>](https://www.iiitd.ac.in/)
 
 **Indraprastha Institute of Information Technology Delhi (IIIT Delhi)** \
-[**IIIT-D**](https://www.iiitd.ac.in/) • Electronics \
+[**IIIT-D**](https://www.iiitd.ac.in/) • Online \
 Course: VLSI Design Flow <br/>
 <br/>
 <br/>

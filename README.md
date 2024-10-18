@@ -125,6 +125,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Education:</h3>
 
+[<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/iiitd.jpg"/>](https://www.iiitd.ac.in/)
+
+**Indraprastha Institute of Information Technology Delhi (IIIT Delhi)** \
+[**IIIT-D**](https://www.iiitd.ac.in/) • NPTEL \
+Course: VLSI Design Flow <br/>
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="nielit" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/NIELIT.jpeg"/>](https://nielit.gov.in/)
 
 **National Institute of Electronics and Information Technology (NIELIT)** \

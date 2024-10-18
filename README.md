@@ -98,6 +98,13 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <h3 align="left">Experience:</h3>
 
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/mide.png"/>](https://www.umkc.edu/mide/)
+
+**Research Assistant: Missouri Institute for Defense & Energy** \
+[**UIS**](https://www.umkc.edu/mide/) • Part-Time <br/><br/>
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/smartbridge.jpeg"/>](https://www.thesmartbridge.com/)
 
 **Artificial Intelligence Developer Intern** \

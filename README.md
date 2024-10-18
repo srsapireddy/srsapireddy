@@ -112,7 +112,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="324px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/mide.png"/>](https://www.umkc.edu/mide/)
+[<img align="left" height="94px" width="324px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/UMKC.jpeg"/>](https://www.umkc.edu/mide/)
 
 **Research Assistant: Missouri Institute for Defense & Energy** \
 [**UMKC**](https://www.umkc.edu/mide/) • Part-Time <br/><br/>

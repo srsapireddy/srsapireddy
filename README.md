@@ -98,6 +98,20 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <h3 align="left">Experience:</h3>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/umkc_ssc.jpg"/>](https://sse.umkc.edu/)
+
+**Instructor** \
+[**UMKC School of Science and Engineering**](https://sse.umkc.edu/) • Part-Time \
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/UMKC.jpeg"/>](https://www.umkc.edu/)
+
+**Teaching Assistant** \
+[**UMKC**](https://www.umkc.edu/) • Part-Time \
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="324px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/mide.png"/>](https://www.umkc.edu/mide/)
 
 **Research Assistant: Missouri Institute for Defense & Energy** \

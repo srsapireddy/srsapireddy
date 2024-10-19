@@ -153,7 +153,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 **Indraprastha Institute of Information Technology Delhi (IIIT Delhi)** \
 [**IIIT-D**](https://www.iiitd.ac.in/) • Online \
-Course: VLSI Design Flow <br/>
+Course: VLSI Design <br/>
 <br/>
 <br/>
 

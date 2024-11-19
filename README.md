@@ -154,6 +154,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 **Indraprastha Institute of Information Technology Delhi (IIIT Delhi)** \
 [**IIIT-D**](https://www.iiitd.ac.in/) • Online \
 Course: VLSI Design <br/>
+</br>
 ![image](https://github.com/user-attachments/assets/bce6d142-19bd-4e40-9037-a29a5ebdb897)
 <br/>
 <br/>

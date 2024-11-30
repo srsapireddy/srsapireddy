@@ -299,6 +299,17 @@ Membership Number: 93943359
 <br/>
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/bits.png"/>](https://crest.bits-pilani.ac.in/pdc) </br>
+
+**Introduction to Device and System Packaging** \
+[**Device Packaging**](https://crest.bits-pilani.ac.in/pdc) </br>
+</br>
+• This course is based on integrated semiconductors and packaging R&D and a textbook by Prof. Rao Tummala and his Georgia Tech Team in the USA - Fundamentals of Device and Systems Packaging (McGraw-Hill, 2019). It will be offered online as a Professional Development Course (PDC) by BITS Pilani to serve the emerging needs of Indian semiconductors and packaging. <br/>
+<br>
+![image](https://github.com/user-attachments/assets/48d34279-983b-4d4e-a1d3-48f876143445)
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/DUKE.jpeg"/>](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
 
 **MLOps | Machine Learning Operations Specialization** \

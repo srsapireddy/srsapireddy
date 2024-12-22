@@ -31,6 +31,9 @@
 
 Hi, I'm Srinivas Rahul, a passionate, self-taught data science engineer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
+Most of the code you stumble upon here is just me monkeying around... 🐒 <br>
+My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.
+
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
 

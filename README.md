@@ -95,10 +95,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📝 My Latest Blog Post in Medium <br/>
 ![Srinivas's blog](https://github-read-medium.vercel.app/latest?username=srsapireddy&limit=6&theme=nord)
+<!---
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@srsapireddy/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@srsapireddy/0" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@srsapireddy/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@srsapireddy/2" alt="Recent Article 2"> 
-
+--->
 
 <!--📏LINE-->
 <p align="center">

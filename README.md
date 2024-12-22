@@ -92,6 +92,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 	<a href="https://medium.com/@srsapireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srsapireddy" height="50" width="50" /></a> 
 </p>
 
+📝 My Latest Blog Post in Medium <br/>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@srsapireddy/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@srsapireddy/0" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@srsapireddy/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@srsapireddy/2" alt="Recent Article 2"> 

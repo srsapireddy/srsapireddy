@@ -303,6 +303,17 @@ Membership Number: 93943359
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/DUKE.jpeg"/>](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
 
+**Basics of Semiconductor Device Technology** \
+[**Device Packaging**](https://iisc.ac.in/) </br>
+</br>
+• A meticulously designed course covering the foundations, diving deep into the nuances of device/technology development skills, and offering a hands-on approach through a microelectronics lab experience. <br/>
+<br>
+![image](https://github.com/user-attachments/assets/f14b0b17-c820-410b-aee4-51906b420865)
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/DUKE.jpeg"/>](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
+
 **MLOps | Machine Learning Operations Specialization** \
 [**MLOps**](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
 </br>

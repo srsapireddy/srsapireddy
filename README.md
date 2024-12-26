@@ -301,7 +301,7 @@ Membership Number: 93943359
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/DUKE.jpeg"/>](https://www.coursera.org/specializations/mlops-machine-learning-duke) </br>
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/srsapireddy/srsapireddy/blob/master/images/iisc.PNG"/>](https://iisc.ac.in/) </br>
 
 **Basics of Semiconductor Device Technology** \
 [**Device Packaging**](https://iisc.ac.in/) </br>

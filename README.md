@@ -32,12 +32,13 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
 
 
-Hi, I'm Srinivas Rahul, a passionate, self-taught data science engineer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
+👋 Hi, I'm Srinivas Rahul, a data science engineer and researcher with a Ph.D. in Electrical and Computer Engineering. I’m passionate about building intelligent, efficient, and elegant software systems that bridge AI, data science, and hardware-aware design.
 
-Most of the code you stumble upon here is just me monkeying around... 🐒 <br>
-My GitHub primarily reflects my experimentation with new technologies, hobby projects, and learning endeavors. Please view it as a glimpse into my exploration 🧪 rather than a testament to my professional abilities 🦸.
+I’m a self-taught learner who loves experimenting — most of the code you find here is me monkeying around 🐒, exploring new technologies, testing ideas, and learning through doing.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
+Please view this GitHub as a playground of exploration 🧪 rather than a showcase of my professional work 🦸.
+
+I’m also an open-source enthusiast and maintainer, grateful for the collaborative spirit of the open-source community that continues to inspire and teach me.
 
 
   <img align="right" alt="GIF" src="https://github.com/srsapireddy/srsapireddy/blob/master/code.gif?raw=true" width="500" height="320" />
